@@ -1,2 +1,2 @@
 # minishell
-A tiny implementation of bash.
+All basic features of bash implenented in C
